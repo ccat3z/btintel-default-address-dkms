@@ -1,0 +1,5 @@
+*.c
+*.h
+/pkg
+/src
+*.tar.xz
